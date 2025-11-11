@@ -1,4 +1,4 @@
-def approximate_pi(n_terms):
+def approximate_pi():
     n_terms = int(input("how many numbers?"))
     list_of_numbers = []
     for i in range(n_terms):
